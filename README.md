@@ -1,6 +1,6 @@
-👋 Hi, I’m @Jakob-Poulsen
-👀 I’m interested in web applications
-🌱 I’m currently learning next.js
+👋 Hi, I’m @Jakob-Poulsen.
+👀 I’m interested in web applications.
+🌱 I’m currently learning next.js.
 
 #### 🤓 Self-taught programer
 - JavaScript (react & next)
