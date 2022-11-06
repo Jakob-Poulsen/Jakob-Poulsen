@@ -3,7 +3,7 @@
 🌱 I’m currently learning next.js.  
 
 #### 🤓 Self-taught programer
-- JavaScript (react & next)
+- JavaScript/TypeScript (react & next)
 - CSS & SCSS
 - HTML
 - (Regex)
