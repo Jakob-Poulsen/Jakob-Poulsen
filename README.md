@@ -2,12 +2,14 @@
 👋 Hi, I’m @Jakob-Poulsen.  
 👀 I’m interested in web applications.  
 🌱 I’m currently learning next.js.  
-
 #### 🤓 Self-taught programer
-- JavaScript/TypeScript (react & next)
+
+## My focus
+- JavaScript/TypeScript 
+- react.js && next.js (13)
 - CSS & SCSS
 - HTML
-- (Regex)
+- /Regex/
 
 **Still** learing 
  
